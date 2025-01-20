@@ -3,7 +3,6 @@ This repository contains exercises and examples from the PyTorch beginner tutori
 
 1. Tensors:
 
-This section introduces PyTorch tensors, including:
 
   Creating and manipulating tensors.
   
@@ -13,7 +12,6 @@ This section introduces PyTorch tensors, including:
 
 2. Datasets and DataLoaders:
    
-Learn how to:
 
   Use built-in datasets like FashionMNIST.
   
@@ -23,15 +21,16 @@ Learn how to:
 
 3. Transforms:
 
-Focus on image transformations:
 
   Resizing, cropping, and normalizing images.
   
   Writing custom transformations (e.g., horizontal flip).
   
   Composing multiple transformations.
+  
 
 How to Use: 
+
 Clone this repository: git clone https://github.com/yourusername/your-repo-name.git  
 
 Open the relevant .py file or Jupyter notebook for each topic.
