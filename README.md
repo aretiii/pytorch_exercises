@@ -29,10 +29,18 @@ This repository contains exercises and examples from the PyTorch beginner tutori
   Composing multiple transformations.
 
 4. Autograd:
+   
 
   Compute gradients automatically for scalar and multivariable functions.
   
   Calculate Jacobian matrices and higher-order derivatives.
   
   Demonstrate gradient tracking and detachment.
+
+5. Optimization:
+   
+
+  Minimize functions using gradient descent.
+  
+  Optimize quadratic and distance functions with PyTorch optimizers.
   
