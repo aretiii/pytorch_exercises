@@ -27,6 +27,14 @@ This repository contains exercises and examples from the PyTorch beginner tutori
   Writing custom transformations (e.g., horizontal flip).
   
   Composing multiple transformations.
+
+4. Autograd:
+
+  Compute gradients automatically for scalar and multivariable functions.
+  
+  Calculate Jacobian matrices and higher-order derivatives.
+  
+  Demonstrate gradient tracking and detachment.
   
 
 How to Use: 
