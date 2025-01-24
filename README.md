@@ -36,11 +36,3 @@ This repository contains exercises and examples from the PyTorch beginner tutori
   
   Demonstrate gradient tracking and detachment.
   
-
-How to Use: 
-
-Clone this repository: git clone https://github.com/yourusername/your-repo-name.git  
-
-Open the relevant .py file or Jupyter notebook for each topic.
-
-Follow the code examples and customize them for your own learning.
